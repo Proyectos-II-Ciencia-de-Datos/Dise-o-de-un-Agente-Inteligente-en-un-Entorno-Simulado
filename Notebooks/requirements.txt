@@ -1,0 +1,10 @@
+torch==2.8.0
+tensorflow==2.20.0
+xgboost==3.0.4
+gymnasium
+pygame
+numpy
+pandas
+torchviz
+matplotlib
+scikit-learn
