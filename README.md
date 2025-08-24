@@ -22,7 +22,8 @@ Resultados principales: conclusiones rápidas o hallazgos (ej. “La mayoría de
 Instrucciones de uso: cómo abrir el dashboard, cómo correr los scripts, cómo explorar los mapas.
 Autores/Colaboradores: poner tu nombre y el de quien participó.
 
-[📄 Informe Mortalidad Infantil Bogotá](Informe/Diseño de un Agente Inteligente en un Entorno Simulado.pdf)
+[📄 Informe / Diseño de un Agente Inteligente en un Entorno Simulado](Informe/Diseño%20de%20un%20Agente%20Inteligente%20en%20un%20Entorno%20Simulado.pdf)
+
 
 
 
